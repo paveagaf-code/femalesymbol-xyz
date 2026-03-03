@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://femalesymbol.xyz/sitemap.xml
